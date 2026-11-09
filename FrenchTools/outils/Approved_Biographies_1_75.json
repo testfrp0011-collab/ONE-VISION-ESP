@@ -1,0 +1,533 @@
+{
+  "project": "Tactics Ogre PSP One Vision USA ULUS10565 Spanish localization",
+  "description": "Revised and approved biography translations 1-75. Use with Biographies_1_75.csv to build a SHA-1 keyed corrections dictionary that supports both English source strings and the previous Spanish strings in the translated USRDIR.",
+  "count": 75,
+  "resource": "700/0/3",
+  "items": [
+    {
+      "biography_number": 1,
+      "resource": "700/0/3",
+      "xlc_row": 1,
+      "revised_spanish": "Un walister originario de Golyat. Su padre, Prancet, fue capturado por los Caballeros Oscuros cuando atacaron Golyat, un año antes. {hero} se unió a la Resistencia walisteriana y hostigó a las fuerzas de Bakram y Galgastan junto a su hermana Catiua y su amigo Vyce.",
+      "approval_status": "approved"
+    },
+    {
+      "biography_number": 2,
+      "resource": "700/0/3",
+      "xlc_row": 2,
+      "revised_spanish": "Un walister originario de Golyat. Su padre, Prancet, fue capturado por los Caballeros Oscuros cuando atacaron Golyat, un año antes. {hero} se unió a la Resistencia walisteriana y combatió contra los enemigos de su pueblo junto a su hermana Catiua y su amigo Vyce.\nCon la ayuda de un grupo de xenobianos que conoció en Golyat, liberó al líder de los walisterianos, el duque Ronwey, de su cautiverio en el castillo de Almorica. Después, le ofrecieron un puesto en la Resistencia walisteriana y pasó a ser capitán de la Orden de {order}.\nSu pueblo lo conocía como el Héroe de Golyat y pronto se convirtió en una figura destacada de la Resistencia.",
+      "approval_status": "approved"
+    },
+    {
+      "biography_number": 3,
+      "resource": "700/0/3",
+      "xlc_row": 3,
+      "revised_spanish": "Un walister de Golyat que lidera la Orden de {order}. Se unió a la Resistencia walisteriana tras liberar al duque Ronwey de su cautiverio en el castillo de Almorica. Más tarde rompió sus vínculos con la Resistencia al oponerse al plan del duque de unir al pueblo mediante la matanza de walisterianos en Balmamusa. Actualmente permanece oculto junto a su hermana Catiua, a la espera de una oportunidad para derrocar al duque.",
+      "approval_status": "approved"
+    },
+    {
+      "biography_number": 4,
+      "resource": "700/0/3",
+      "xlc_row": 4,
+      "revised_spanish": "Miembro de la Resistencia walisteriana, originario de Golyat. Se unió a sus filas tras liberar al duque Ronwey de su cautiverio en el castillo de Almorica. Junto a sir Leonar, participó en la matanza de civiles walisterianos en Balmamusa con la esperanza de unir a su pueblo contra el enemigo. Por su lealtad, fue nombrado oficial superior de la Resistencia.\nEl enemigo lo conoce como el «Carnicero de Golyat», y quienes conocen la verdad sobre la masacre de Balmamusa lo persiguen.",
+      "approval_status": "approved"
+    },
+    {
+      "biography_number": 5,
+      "resource": "700/0/3",
+      "xlc_row": 5,
+      "revised_spanish": "Miembro de la Resistencia walisteriana, originario de Golyat. Se unió a la Resistencia tras liberar al duque Ronwey de su cautiverio en el castillo de Almorica, pero se apartó temporalmente debido a la participación de la Resistencia en la masacre de Balmamusa.\nSe ocultó junto a su hermana Catiua, pero finalmente regresó a la Resistencia cuando sir Leonar le pidió ayuda tras la invasión de Rhime por las fuerzas de Bakram. Desde entonces, continúa luchando contra las fuerzas de Bakram para expulsarlas de las tierras walisterianas.",
+      "approval_status": "approved"
+    },
+    {
+      "biography_number": 6,
+      "resource": "700/0/3",
+      "xlc_row": 6,
+      "revised_spanish": "Un walister originario de Golyat que lidera la Orden de {order}. Se unió a la Resistencia tras liberar al duque Ronwey de su cautiverio en el castillo de Almorica. A raíz de la masacre de Balmamusa, rompió sus vínculos con la Resistencia y se ocultó junto a Catiua.\nDurante un enfrentamiento con sir Leonar, descubrió que el duque planeaba firmar un tratado secreto con los Caballeros Oscuros de Loslorien. Partió hacia Rhime para impedirlo, pero el duque murió a causa de la traición de Vyce antes de que pudiera intervenir. Ante la falta de liderazgo en la Resistencia, se ofreció a asumir el mando y ahora dirige todo el sur de Valeria.",
+      "approval_status": "approved"
+    },
+    {
+      "biography_number": 7,
+      "resource": "700/0/3",
+      "xlc_row": 7,
+      "revised_spanish": "Un walister originario de Golyat que lidera la Orden de {order}. Se unió a la Resistencia tras liberar al duque Ronwey de su cautiverio en el castillo de Almorica y posteriormente participó en la masacre de Balmamusa.\nTras derrocar a sir Leonar, quien había asesinado al duque al considerar que no estaba capacitado para gobernar, asumió el mando de la Resistencia. También logró la paz con la Nueva Alianza Walister de Vyce, demostrando una madurez y una capacidad de liderazgo poco comunes para su edad.",
+      "approval_status": "approved"
+    },
+    {
+      "biography_number": 8,
+      "resource": "700/0/3",
+      "xlc_row": 8,
+      "revised_spanish": "Un walister originario de Golyat que lidera la Orden de {order}. Se unió a la Resistencia tras liberar al duque Ronwey de su cautiverio en el castillo de Almorica y posteriormente participó en la masacre de Balmamusa. Pese a los reveses sufridos, acabó liderando la Resistencia contra las fuerzas de Bakram y los Caballeros Oscuros.\nSu pueblo lo conoce como el «Héroe de Golyat» y confía en que pondrá fin a los estragos de la guerra.",
+      "approval_status": "approved"
+    },
+    {
+      "biography_number": 9,
+      "resource": "700/0/3",
+      "xlc_row": 9,
+      "revised_spanish": "Un bakram originario de Golyat que lidera la Orden de {order}. Se unió a la Resistencia tras liberar al duque Ronwey de su cautiverio en el castillo de Almorica y posteriormente participó en la masacre de Balmamusa. Pese a los reveses sufridos, acabó liderando la Resistencia contra las fuerzas de Bakram y los Caballeros Oscuros.\nSe reencontró con su padre, Prancet, en el castillo de Brigantys, donde descubrió la verdad sobre el pasado de Catiua. Olivya también le reveló que había nacido en Heim y que era de ascendencia bakram. Su padre era hermano del regente Brantyn Morne. Ahora busca destruir a los Caballeros Oscuros para cumplir el último deseo de su padre.",
+      "approval_status": "approved"
+    },
+    {
+      "biography_number": 10,
+      "resource": "700/0/3",
+      "xlc_row": 10,
+      "revised_spanish": "Un bakram originario de Golyat que lidera la Orden de {order}. Se unió a la Resistencia tras liberar al duque Ronwey de su cautiverio en el castillo de Almorica y posteriormente participó en la masacre de Balmamusa. Pese a los reveses sufridos, acabó liderando la Resistencia contra las fuerzas de Bakram y los Caballeros Oscuros.\nSe reencontró con su padre, Prancet, en el castillo de Brigantys, donde descubrió la verdad sobre el pasado de Catiua. Olivya también le reveló que había nacido en Heim y que era de ascendencia bakram. Su padre era hermano del regente Brantyn Morne. Cumplió el último deseo de su padre y condujo a la Resistencia a la victoria sobre los Caballeros Oscuros, derrotándolos en una cruenta batalla.",
+      "approval_status": "approved"
+    },
+    {
+      "biography_number": 11,
+      "resource": "700/0/3",
+      "xlc_row": 16,
+      "revised_spanish": "Un walister de Golyat que creció junto a {hero}. Su padre murió hace un año durante el ataque de los Caballeros Oscuros de Loslorien a Golyat. Como su madre ya había fallecido, quedó huérfano.\nAcabó sintiendo un profundo resentimiento hacia los bakram y los galgastaníes por la opresión que ejercían sobre los walisterianos, y decidió luchar por la libertad de su pueblo.",
+      "approval_status": "approved"
+    },
+    {
+      "biography_number": 12,
+      "resource": "700/0/3",
+      "xlc_row": 17,
+      "revised_spanish": "Un walister de Golyat que creció junto a {hero}. Anteriormente fue líder de la Nueva Alianza Walister.\nJunto a {hero}, liberó al duque Ronwey y se unió a la Resistencia walisteriana. Más tarde rompió sus vínculos con ella al oponerse firmemente a la masacre de walisterianos inocentes en Balmamusa. Después fundó la Nueva Alianza Walister para defender el autogobierno de los walisterianos y poner fin al dominio de la nobleza, lo que le granjeó el apoyo de su pueblo.\nFinalmente, se reconcilió con la Resistencia cuando {hero} asumió su liderazgo. Su destreza en combate fue de gran ayuda para la Orden de {order} y contribuyó a poner fin a la guerra.",
+      "approval_status": "approved"
+    },
+    {
+      "biography_number": 13,
+      "resource": "700/0/3",
+      "xlc_row": 18,
+      "revised_spanish": "Un walister de Golyat que creció junto a {hero}. Juntos rescataron al duque Ronwey y se unieron a la Resistencia walisteriana. Pese a la oposición de {hero}, participó en la masacre de walisterianos inocentes en Balmamusa, lo que provocó una ruptura entre ambos.\nEl duque recompensó su lealtad nombrándolo líder de la Tercera Lanza de la Resistencia.",
+      "approval_status": "approved"
+    },
+    {
+      "biography_number": 14,
+      "resource": "700/0/3",
+      "xlc_row": 19,
+      "revised_spanish": "Un walister de Golyat que creció junto a {hero}. Juntos rescataron al duque Ronwey y se unieron a la Resistencia walisteriana. Pese a la oposición de {hero}, participó en la masacre de walisterianos inocentes en Balmamusa, lo que provocó una ruptura entre ambos.\nEl duque recompensó su lealtad nombrándolo líder de la Tercera Lanza de la Resistencia. También le ordenó eliminar a quienes conocían la verdad sobre Balmamusa. Ahora busca matar a {hero}.",
+      "approval_status": "approved"
+    },
+    {
+      "biography_number": 15,
+      "resource": "700/0/3",
+      "xlc_row": 20,
+      "revised_spanish": "Un walister de Golyat que creció junto a {hero}. Juntos rescataron al duque Ronwey y se unieron a la Resistencia walisteriana.\nMás tarde rompió sus vínculos con la Resistencia al oponerse firmemente a la masacre de walisterianos inocentes en Balmamusa. Actualmente se desconoce su paradero.",
+      "approval_status": "approved"
+    },
+    {
+      "biography_number": 16,
+      "resource": "700/0/3",
+      "xlc_row": 21,
+      "revised_spanish": "Un walister de Golyat que creció junto a {hero}. Actualmente lidera la Nueva Alianza Walister.\nJunto a {hero}, rescató al duque Ronwey y se unió a la Resistencia walisteriana. Más tarde rompió sus vínculos con ella al oponerse firmemente a la masacre de walisterianos inocentes en Balmamusa. Después fundó la Nueva Alianza Walister para defender el autogobierno de los walisterianos y poner fin al dominio de la nobleza, lo que le granjeó el apoyo de su pueblo.",
+      "approval_status": "approved"
+    },
+    {
+      "biography_number": 17,
+      "resource": "700/0/3",
+      "xlc_row": 22,
+      "revised_spanish": "Un walister de Golyat que creció junto a {hero}. Juntos rescataron al duque Ronwey y se unieron a la Resistencia walisteriana, donde llegó a comandar la Tercera Lanza.\nParticipó en la masacre de Balmamusa y fue nombrado jefe de la guardia personal del duque. Sin embargo, incapaz de aceptar la reincorporación de {hero} a la Resistencia, huyó.\nLa Resistencia lo acusó falsamente de conspirar para asesinar al duque Ronwey. Se ofreció una cuantiosa recompensa de 50.000 goth por su captura.",
+      "approval_status": "approved"
+    },
+    {
+      "biography_number": 18,
+      "resource": "700/0/3",
+      "xlc_row": 23,
+      "revised_spanish": "Un walister de Golyat que creció junto a {hero}. Juntos rescataron al duque Ronwey y se unieron a la Resistencia walisteriana, donde llegó a comandar la Tercera Lanza.\nParticipó en la masacre de Balmamusa y fue nombrado jefe de la guardia personal del duque. Sin embargo, incapaz de aceptar la reincorporación de {hero} a la Resistencia, huyó.\nCon una recompensa sin precedentes de 60.000 goth por su captura, lo persiguen tanto la Resistencia como los cazarrecompensas.",
+      "approval_status": "approved"
+    },
+    {
+      "biography_number": 19,
+      "resource": "700/0/3",
+      "xlc_row": 24,
+      "revised_spanish": "Un walister de Golyat que creció junto a {hero}. Juntos rescataron al duque Ronwey y se unieron a la Resistencia walisteriana, donde llegó a comandar la Tercera Lanza.\nParticipó en la masacre de Balmamusa y fue nombrado jefe de la guardia personal del duque. Sin embargo, incapaz de aceptar la reincorporación de {hero} a la Resistencia, huyó.\nAl darse cuenta de que lo habían utilizado, se infiltró y asesinó al duque mientras las fuerzas de la Resistencia combatían para recuperar Rhime. Después, murió a manos de los soldados de la Resistencia.",
+      "approval_status": "approved"
+    },
+    {
+      "biography_number": 20,
+      "resource": "700/0/3",
+      "xlc_row": 25,
+      "revised_spanish": "Un walister de Golyat que creció junto a {hero}. Juntos rescataron al duque Ronwey y se unieron a la Resistencia walisteriana, donde llegó a comandar la Tercera Lanza.\nMás tarde participó en la masacre de walisterianos en Balmamusa pese a la oposición de {hero}, lo que provocó una ruptura entre ambos. Su lealtad a la Resistencia fue recompensada con el ascenso a jefe de una fuerza que respondía directamente ante el duque.\nSin embargo, su sed de poder lo llevó a conspirar con los bakram y asesinar al duque. También intentó matar al Caballero Oscuro Lanselot, pero fracasó. Los bakram le atribuyeron toda la culpa y lo ejecutaron por sus crímenes.",
+      "approval_status": "approved"
+    },
+    {
+      "biography_number": 21,
+      "resource": "700/0/3",
+      "xlc_row": 26,
+      "revised_spanish": "Un walister de Golyat que creció junto a {hero}. Anteriormente fue líder de la Nueva Alianza Walister.\nJunto a {hero}, rescató al duque Ronwey y se unió a la Resistencia walisteriana. Más tarde rompió sus vínculos con ella al oponerse firmemente a la masacre de walisterianos inocentes en Balmamusa. Después fundó la Nueva Alianza Walister para defender el autogobierno de los walisterianos y poner fin al dominio de la nobleza, lo que le granjeó el apoyo de su pueblo.\nFinalmente, se reconcilió con la Resistencia cuando {hero} asumió su liderazgo. Su destreza en combate es de gran ayuda para la Orden de {order}, que lucha por poner fin a la guerra.",
+      "approval_status": "approved"
+    },
+    {
+      "biography_number": 22,
+      "resource": "700/0/3",
+      "xlc_row": 27,
+      "revised_spanish": "Un walister de Golyat que creció junto a {hero}. Juntos rescataron al duque Ronwey y se unieron a la Resistencia walisteriana, donde llegó a comandar la Tercera Lanza.\nMás tarde participó en la masacre de walisterianos inocentes en Balmamusa pese a la oposición de {hero}, lo que provocó una ruptura entre ambos. Después siguió sirviendo a la Resistencia al mando de una fuerza que respondía directamente ante el duque. Sin embargo, sus ansias de poder lo llevaron a conspirar con los bakram e intentar asesinar tanto al duque como al Caballero Oscuro Lanselot. Tras fracasar el complot, los bakram lo ahorcaron.\nDespués de su muerte, el nigromante Nybeth lo resucitó, pero {hero} lo derrotó y finalmente dio descanso a su alma atormentada.",
+      "approval_status": "approved"
+    },
+    {
+      "biography_number": 23,
+      "resource": "700/0/3",
+      "xlc_row": 28,
+      "revised_spanish": "Un walister de Golyat que creció junto a {hero}. Anteriormente fue líder de la Nueva Alianza Walister.\nJunto a {hero}, rescató al duque Ronwey y se unió a la Resistencia walisteriana. Más tarde rompió sus vínculos con ella al oponerse firmemente a la masacre de walisterianos inocentes en Balmamusa. Después fundó la Nueva Alianza Walister para defender el autogobierno de los walisterianos y poner fin al dominio de la nobleza, lo que le granjeó el apoyo de su pueblo.\nFinalmente, se reconcilió con la Resistencia cuando {hero} asumió su liderazgo. Su destreza en combate fue de gran ayuda para la Orden de {order}, pero más tarde {hero} lo destituyó.",
+      "approval_status": "approved"
+    },
+    {
+      "biography_number": 24,
+      "resource": "700/0/3",
+      "xlc_row": 29,
+      "revised_spanish": "Un walister de Golyat que creció junto a {hero}. Anteriormente fue líder de la Nueva Alianza Walister.\nJunto a {hero}, rescató al duque Ronwey y se unió a la Resistencia walisteriana. Más tarde rompió sus vínculos con ella al oponerse firmemente a la masacre de walisterianos en Balmamusa. Después fundó la Nueva Alianza Walister para defender el autogobierno de los walisterianos y poner fin al dominio de la nobleza, lo que le granjeó el apoyo de su pueblo.\nFinalmente, se reconcilió con la Resistencia cuando {hero} asumió su liderazgo. Su destreza en combate fue de gran ayuda para la Orden de {order}, pero una disputa con {hero} lo llevó a abandonar la Orden.",
+      "approval_status": "approved"
+    },
+    {
+      "biography_number": 25,
+      "resource": "700/0/3",
+      "xlc_row": 30,
+      "revised_spanish": "Un walister de Golyat que creció junto a {hero}. Anteriormente fue líder de la Nueva Alianza Walister.\nJunto a {hero}, rescató al duque Ronwey y se unió a la Resistencia walisteriana. Más tarde rompió sus vínculos con ella al oponerse firmemente a la masacre de walisterianos inocentes en Balmamusa. Después fundó la Nueva Alianza Walister para defender el autogobierno de los walisterianos y poner fin al dominio de la nobleza, lo que le granjeó el apoyo de su pueblo.\nFinalmente, se reconcilió con la Resistencia cuando {hero} asumió su liderazgo. Su destreza en combate fue de gran ayuda para la Orden de {order} hasta que cayó en combate.",
+      "approval_status": "approved"
+    },
+    {
+      "biography_number": 26,
+      "resource": "700/0/3",
+      "xlc_row": 31,
+      "revised_spanish": "Una walister de Golyat y hermana de {hero}. Tras el ataque de los Caballeros Oscuros a su ciudad natal, se unió a {hero} y Vyce para luchar contra sus opresores.\nComo su madre murió cuando ella era pequeña, asumió el papel materno en la familia. Su padre, Prancet, la instruyó en las artes de la sibila.",
+      "approval_status": "approved"
+    },
+    {
+      "biography_number": 27,
+      "resource": "700/0/3",
+      "xlc_row": 33,
+      "revised_spanish": "El verdadero nombre de Catiua es Versalia Oberyth. Es hermana de {hero}. Tras el ataque de los Caballeros Oscuros a su ciudad natal de Golyat, se unió a {hero} para luchar contra sus opresores.\nSe ocultó tras oponerse a la masacre de Balmamusa, pero regresó a las filas de la Resistencia después de la invasión bakram de Rhime.\nConvencida de que {hero} era su único familiar, sufrió profundamente por la distancia que había surgido entre ambos y decidió abandonar la Resistencia. Al regresar a Golyat, el Caballero Oscuro Lanselot le reveló que era hija del Rey Dinasta y de Mannaflora, doncella de la reina. Actualmente se desconoce su paradero.",
+      "approval_status": "approved"
+    },
+    {
+      "biography_number": 28,
+      "resource": "700/0/3",
+      "xlc_row": 34,
+      "revised_spanish": "El verdadero nombre de Catiua es Versalia Oberyth. Es hermana de {hero}. Tras el ataque de los Caballeros Oscuros a su ciudad natal de Golyat, se unió a {hero} para luchar contra sus opresores. Se ocultó tras oponerse a la masacre de Balmamusa, pero regresó a las filas de la Resistencia después de la invasión bakram de Rhime.\nConvencida de que {hero} era su único familiar, sufrió profundamente por la distancia que había surgido entre ambos y decidió abandonar la Resistencia. Al regresar a Golyat, el Caballero Oscuro Lanselot le reveló que era hija del Rey Dinasta y de Mannaflora, doncella de la reina.\nCatiua fue vista junto a Lanselot Tartaros cuando la Resistencia asaltó el castillo de Phidoch. Se cree que ahora se encuentra con los Caballeros Oscuros de Loslorien.",
+      "approval_status": "approved"
+    },
+    {
+      "biography_number": 29,
+      "resource": "700/0/3",
+      "xlc_row": 35,
+      "revised_spanish": "El verdadero nombre de Catiua es Versalia Oberyth. Es hermana de {hero}. Tras el ataque de los Caballeros Oscuros a su ciudad natal de Golyat, se unió a {hero} para luchar contra sus opresores.\nConvencida de que {hero} era su único familiar, sufrió profundamente por la distancia que había surgido entre ambos y decidió abandonar la Resistencia. Al regresar a Golyat, el Caballero Oscuro Lanselot le reveló que era hija del Rey Dinasta y de Mannaflora, doncella de la reina. Actualmente se desconoce su paradero.",
+      "approval_status": "approved"
+    },
+    {
+      "biography_number": 30,
+      "resource": "700/0/3",
+      "xlc_row": 36,
+      "revised_spanish": "El verdadero nombre de Catiua es Versalia Oberyth. Es hermana de {hero}. Tras el ataque de los Caballeros Oscuros a su ciudad natal de Golyat, se unió a {hero} para luchar contra sus opresores. Se ocultó tras oponerse a la masacre de Balmamusa.\nConvencida de que {hero} era su único familiar, sufrió profundamente por la distancia que había surgido entre ambos y decidió abandonar la Orden de {order}. Al regresar a Golyat, el Caballero Oscuro Lanselot le reveló que era hija del Rey Dinasta y de Mannaflora, doncella de la reina.\nCatiua fue vista junto a Lanselot Tartaros cuando la Resistencia asaltó el castillo de Phidoch. Se cree que ahora se encuentra con los Caballeros Oscuros de Loslorien.",
+      "approval_status": "approved"
+    },
+    {
+      "biography_number": 31,
+      "resource": "700/0/3",
+      "xlc_row": 37,
+      "revised_spanish": "El verdadero nombre de Catiua es Versalia Oberyth. Es hermana de {hero}. Tras el ataque de los Caballeros Oscuros a su ciudad natal de Golyat, se unió a {hero} para luchar contra sus opresores. Como miembro de la Resistencia walisteriana, participó en la masacre de Balmamusa.\nConvencida de que {hero} era su único familiar, sufrió profundamente por la distancia que había surgido entre ambos y decidió abandonar la Resistencia. Al regresar a Golyat, el Caballero Oscuro Lanselot le reveló que era hija del Rey Dinasta y de Mannaflora, doncella de la reina.\nCatiua fue vista junto a Lanselot Tartaros cuando la Resistencia asaltó el castillo de Phidoch. Se cree que ahora se encuentra con los Caballeros Oscuros de Loslorien.",
+      "approval_status": "approved"
+    },
+    {
+      "biography_number": 32,
+      "resource": "700/0/3",
+      "xlc_row": 39,
+      "revised_spanish": "El verdadero nombre de Catiua era Versalia Oberyth. Era hija del Rey Dinasta y de Mannaflora, doncella de la reina. Poco después de nacer, el abuna Prancet la acogió y la crió en Golyat. No sabía nada de su linaje, salvo que Prancet no era su verdadero padre.\nCuando el Caballero Oscuro Lanselot le reveló la verdad, se unió a los Caballeros Oscuros de Loslorien. Aspiraba a ocupar el lugar que le correspondía como soberana de Valeria, pero murió en combate contra la Resistencia en el castillo de Barnicia.",
+      "approval_status": "approved"
+    },
+    {
+      "biography_number": 33,
+      "resource": "700/0/3",
+      "xlc_row": 40,
+      "revised_spanish": "El verdadero nombre de Catiua era Versalia Oberyth. Era hija del Rey Dinasta y de Mannaflora, doncella de la reina. Poco después de nacer, el abuna Prancet la acogió y la crió en Golyat. No sabía nada de su linaje, salvo que Prancet no era su verdadero padre.\nCuando el Caballero Oscuro Lanselot le reveló la verdad, se unió a los Caballeros Oscuros de Loslorien. Aspiraba a ocupar el lugar que le correspondía como soberana de Valeria, pero se quitó la vida al verse acorralada por las fuerzas de la Resistencia que asaltaban el castillo de Barnicia.",
+      "approval_status": "approved"
+    },
+    {
+      "biography_number": 34,
+      "resource": "700/0/3",
+      "xlc_row": 41,
+      "revised_spanish": "El verdadero nombre de Catiua es Versalia Oberyth. Es hija del Rey Dinasta y de Mannaflora, doncella de la reina. Poco después de nacer, el abuna Prancet la acogió y la crió en Golyat. No sabía nada de su linaje, salvo que Prancet no era su verdadero padre.\nCuando el Caballero Oscuro Lanselot le reveló la verdad, los Caballeros Oscuros de Loslorien la obligaron a acompañarlos con el pretexto de protegerla. Más tarde, las fuerzas de la Resistencia que avanzaban hacia el castillo de Barnicia la rescataron.\nSe puso del lado de la Resistencia con la esperanza de poner fin a la guerra y recuperar el trono de Valeria.",
+      "approval_status": "approved"
+    },
+    {
+      "biography_number": 35,
+      "resource": "700/0/3",
+      "xlc_row": 42,
+      "revised_spanish": "El verdadero nombre de Catiua es Versalia Oberyth. Es hija del Rey Dinasta y de Mannaflora, doncella de la reina. Poco después de nacer, el abuna Prancet la acogió y la crió en Golyat. No sabía nada de su linaje, salvo que Prancet no era su verdadero padre.\nCuando el Caballero Oscuro Lanselot le reveló la verdad, los Caballeros Oscuros de Loslorien la obligaron a acompañarlos con el pretexto de protegerla. Más tarde, las fuerzas de la Resistencia que avanzaban hacia el castillo de Barnicia la rescataron.\nSe puso del lado de la Resistencia, puso fin a la guerra y recuperó el trono de Valeria. Su coronación está próxima.",
+      "approval_status": "approved"
+    },
+    {
+      "biography_number": 36,
+      "resource": "700/0/3",
+      "xlc_row": 45,
+      "revised_spanish": "El verdadero nombre de Catiua era Versalia Oberyth. Era hija del Rey Dinasta y de Mannaflora, doncella de la reina. Poco después de nacer, el abuna Prancet la acogió y la crió en Golyat. No sabía nada de su linaje, salvo que Prancet no era su verdadero padre.\nCuando el Caballero Oscuro Lanselot le reveló la verdad, los Caballeros Oscuros de Loslorien la obligaron a acompañarlos con el pretexto de protegerla. Más tarde, las fuerzas de la Resistencia que avanzaban hacia el castillo de Barnicia la rescataron.\nSe puso del lado de la Resistencia con la esperanza de poner fin a la guerra y recuperar su trono, pero murió en combate antes de poder cumplir sus planes.",
+      "approval_status": "approved"
+    },
+    {
+      "biography_number": 37,
+      "resource": "700/0/3",
+      "xlc_row": 46,
+      "revised_spanish": "Un xenobiano nacido en la ciudad de Valna, en Charlom. Antiguamente fue capitán de los Caballeros Santos del Reino de Nueva Xenobia.\nEl rey Tristán de Xenobia lo degradó y desterró debido a la conducta indebida de sus caballeros. Ahora vaga acompañado de un pequeño grupo de antiguos compañeros, en busca de trabajo como mercenarios.",
+      "approval_status": "approved"
+    },
+    {
+      "biography_number": 38,
+      "resource": "700/0/3",
+      "xlc_row": 47,
+      "revised_spanish": "Un xenobiano nacido en la ciudad de Valna, en Charlom. Antiguamente fue capitán de los Caballeros Santos del Reino de Nueva Xenobia.\nEl rey Tristán de Xenobia lo degradó y desterró debido a la conducta indebida de sus caballeros. Se unió a la Resistencia walisteriana tras ayudar a {hero} a liberar al duque Ronwey de su cautiverio en el castillo de Almorica.",
+      "approval_status": "approved"
+    },
+    {
+      "biography_number": 39,
+      "resource": "700/0/3",
+      "xlc_row": 48,
+      "revised_spanish": "Un xenobiano nacido en la ciudad de Valna, en Charlom. Antiguamente fue capitán de los Caballeros Santos del Reino de Nueva Xenobia.\nEl rey Tristán de Xenobia lo degradó y desterró debido a la conducta indebida de sus caballeros. Se unió a la Resistencia walisteriana tras ayudar a {hero} a liberar al duque Ronwey.\nEstaba de guarnición en Rhime cuando los bakram invadieron la ciudad. Aunque luchó con valentía, acabó siendo superado por la superioridad numérica del enemigo. Desde entonces, no se ha vuelto a saber de él.",
+      "approval_status": "approved"
+    },
+    {
+      "biography_number": 40,
+      "resource": "700/0/3",
+      "xlc_row": 49,
+      "revised_spanish": "Un xenobiano nacido en la ciudad de Valna, en Charlom. Antiguamente fue capitán de los Caballeros Santos del Reino de Nueva Xenobia.\nEl rey Tristán de Xenobia lo degradó y desterró debido a la conducta indebida de sus caballeros. Se unió a la Resistencia walisteriana tras ayudar a {hero} a liberar al duque Ronwey.\nEstaba de guarnición en Rhime cuando los bakram invadieron la ciudad. Aunque luchó con valentía, acabó siendo superado por la superioridad numérica del enemigo. Desde entonces, no se ha vuelto a saber de él.",
+      "approval_status": "approved"
+    },
+    {
+      "biography_number": 41,
+      "resource": "700/0/3",
+      "xlc_row": 50,
+      "revised_spanish": "Un xenobiano nacido en la ciudad de Valna, en Charlom. Antiguamente fue capitán de los Caballeros Santos del Reino de Nueva Xenobia.\nEl rey Tristán de Xenobia lo degradó y desterró debido a la conducta indebida de sus caballeros. Se unió a la Resistencia walisteriana tras ayudar a {hero} a liberar al duque Ronwey.\nEstaba de guarnición en Rhime cuando los bakram invadieron la ciudad. Aunque luchó con valentía, acabó siendo superado por la superioridad numérica del enemigo. No fue encarcelado en Rhime junto a los demás soldados capturados, y su paradero sigue siendo un misterio.",
+      "approval_status": "approved"
+    },
+    {
+      "biography_number": 42,
+      "resource": "700/0/3",
+      "xlc_row": 51,
+      "revised_spanish": "Un xenobiano nacido en la ciudad de Valna, en Charlom. Antiguamente fue capitán de los Caballeros Santos del Reino de Nueva Xenobia.\nEl rey Tristán de Xenobia lo degradó y desterró debido a la conducta indebida de sus caballeros. Se unió a la Resistencia walisteriana tras ayudar a {hero} a liberar al duque Ronwey.\nEstaba de guarnición en Rhime cuando los bakram invadieron la ciudad. Aunque luchó con valentía, acabó siendo superado por la superioridad numérica del enemigo. No fue encarcelado en Rhime junto a los demás soldados capturados, y su paradero sigue siendo un misterio.",
+      "approval_status": "approved"
+    },
+    {
+      "biography_number": 43,
+      "resource": "700/0/3",
+      "xlc_row": 52,
+      "revised_spanish": "Un xenobiano nacido en la ciudad de Valna, en Charlom. Antiguamente fue capitán de los Caballeros Santos del Reino de Nueva Xenobia.\nEl rey Tristán de Xenobia lo degradó y desterró debido a la conducta indebida de sus caballeros. Se unió a la Resistencia walisteriana tras ayudar a {hero} a liberar al duque Ronwey.\nEstaba de guarnición en Rhime cuando los bakram invadieron la ciudad y desapareció tras la batalla. Ahora se sabe que está preso en las mazmorras del castillo de Heim.",
+      "approval_status": "approved"
+    },
+    {
+      "biography_number": 44,
+      "resource": "700/0/3",
+      "xlc_row": 53,
+      "revised_spanish": "Un xenobiano nacido en la ciudad de Valna, en Charlom. Antiguamente fue capitán de los Caballeros Santos del Reino de Nueva Xenobia. Viajó a Valeria por orden del rey Tristán de Xenobia para recuperar la espada Brynhildr.\nFue capturado durante la invasión bakram de Rhime y encarcelado en las mazmorras del castillo de Heim. Al parecer, lo trasladaron de allí antes de la caída de Heim. Desde entonces, no se ha vuelto a saber de él.",
+      "approval_status": "approved"
+    },
+    {
+      "biography_number": 45,
+      "resource": "700/0/3",
+      "xlc_row": 54,
+      "revised_spanish": "Un xenobiano nacido en la ciudad de Valna, en Charlom. Antiguamente fue capitán de los Caballeros Santos del Reino de Nueva Xenobia. Viajó a Valeria por orden del rey Tristán de Xenobia para recuperar la espada Brynhildr.\nEstaba de guarnición en Rhime cuando los bakram invadieron la ciudad. Aunque luchó con valentía, fue superado por la superioridad numérica del enemigo y solo logró escapar de Rhime gracias a la ayuda de {hero}. Después se unió a la Orden de {order} para ayudarlos a poner fin a la guerra en Valeria.\nAunque resultó herido en una escaramuza contra los Caballeros Oscuros en los Jardines Colgantes, logró recuperar la espada Brynhildr.",
+      "approval_status": "approved"
+    },
+    {
+      "biography_number": 46,
+      "resource": "700/0/3",
+      "xlc_row": 55,
+      "revised_spanish": "Un xenobiano nacido en la ciudad de Valna, en Charlom. Antiguamente fue capitán de los Caballeros Santos del Reino de Nueva Xenobia.\nViajó a Valeria por orden del rey Tristán de Xenobia para recuperar la espada Brynhildr. Se unió a la Resistencia walisteriana tras ayudar a {hero} a liberar al duque Ronwey.\nEstaba de guarnición en Rhime cuando los bakram invadieron la ciudad y desapareció tras la batalla. Ahora se sabe que está preso en las mazmorras del castillo de Heim.",
+      "approval_status": "approved"
+    },
+    {
+      "biography_number": 47,
+      "resource": "700/0/3",
+      "xlc_row": 58,
+      "revised_spanish": "Un xenobiano nacido en la ciudad de Valna, en Charlom. Antiguamente fue capitán de los Caballeros Santos del Reino de Nueva Xenobia. Viajó a Valeria por orden del rey Tristán de Xenobia para recuperar la espada Brynhildr.\nEstaba de guarnición en Rhime cuando los bakram invadieron la ciudad. Aunque luchó con valentía, fue superado por la superioridad numérica del enemigo y solo logró escapar de Rhime gracias a la ayuda de {hero}. Después se unió a la Orden de {order} para ayudarlos a poner fin a la guerra, hasta que {hero} le comunicó que sus servicios ya no eran necesarios.",
+      "approval_status": "approved"
+    },
+    {
+      "biography_number": 48,
+      "resource": "700/0/3",
+      "xlc_row": 59,
+      "revised_spanish": "Un xenobiano nacido en la ciudad de Valna, en Charlom. Antiguamente fue capitán de los Caballeros Santos del Reino de Nueva Xenobia. Viajó a Valeria por orden del rey Tristán de Xenobia para recuperar la espada Brynhildr.\nEstaba de guarnición en Rhime cuando los bakram invadieron la ciudad. Aunque luchó con valentía, fue superado por la superioridad numérica del enemigo y solo logró escapar de Rhime gracias a la ayuda de {hero}. Después se unió a la Orden de {order} para ayudarlos a poner fin a la guerra, pero un desacuerdo con {hero} hizo que ambos se separaran.",
+      "approval_status": "approved"
+    },
+    {
+      "biography_number": 49,
+      "resource": "700/0/3",
+      "xlc_row": 60,
+      "revised_spanish": "Un xenobiano nacido en la ciudad de Valna, en Charlom. Antiguamente fue capitán de los Caballeros Santos del Reino de Nueva Xenobia. Viajó a Valeria por orden del rey Tristán de Xenobia para recuperar la espada Brynhildr.\nEstaba de guarnición en Rhime cuando los bakram invadieron la ciudad. Aunque luchó con valentía, fue superado por la superioridad numérica del enemigo y solo logró escapar de Rhime gracias a la ayuda de {hero}. Después se unió a la Orden de {order} para ayudarlos a poner fin a la guerra, pero más tarde murió en combate.",
+      "approval_status": "approved"
+    },
+    {
+      "biography_number": 50,
+      "resource": "700/0/3",
+      "xlc_row": 61,
+      "revised_spanish": "Un xenobiano de origen desconocido que antiguamente dirigió el Regimiento de Magos del Reino de Nueva Xenobia. Es más un profeta que un adivino. Al igual que el Caballero Santo Lanselot, fue desterrado de Xenobia por mala conducta.",
+      "approval_status": "approved"
+    },
+    {
+      "biography_number": 51,
+      "resource": "700/0/3",
+      "xlc_row": 62,
+      "revised_spanish": "Un xenobiano de origen desconocido que antiguamente dirigió el Regimiento de Magos del Reino de Nueva Xenobia. Es más un profeta que un adivino. Al igual que el Caballero Santo Lanselot, fue desterrado de Xenobia por mala conducta. Se unió a la Resistencia walisteriana tras ayudar a {hero} a liberar al duque Ronwey de su cautiverio en el castillo de Almorica.\nEstaba de guarnición en Rhime cuando los bakram invadieron la ciudad. Aunque luchó con valentía, fue superado por la superioridad numérica del enemigo. Desde entonces, no se ha vuelto a saber de él.",
+      "approval_status": "approved"
+    },
+    {
+      "biography_number": 52,
+      "resource": "700/0/3",
+      "xlc_row": 64,
+      "revised_spanish": "Un xenobiano de origen desconocido que antiguamente dirigió el Regimiento de Magos del Reino de Nueva Xenobia. Es más un profeta que un adivino. Al igual que el Caballero Santo Lanselot, fue desterrado de Xenobia por mala conducta. Se unió a la Resistencia walisteriana tras ayudar a {hero} a liberar al duque Ronwey de su cautiverio en el castillo de Almorica.\nLos bakram lo capturaron durante la invasión de Rhime. Más tarde logró escapar junto a sir Mirdyn, pero quedó gravemente herido.",
+      "approval_status": "approved"
+    },
+    {
+      "biography_number": 53,
+      "resource": "700/0/3",
+      "xlc_row": 65,
+      "revised_spanish": "Un xenobiano de origen desconocido que antiguamente dirigió el Regimiento de Magos del Reino de Nueva Xenobia. Es más un profeta que un adivino. Al igual que el Caballero Santo Lanselot, fue desterrado de Xenobia por mala conducta. Se unió a la Resistencia walisteriana tras ayudar a {hero} a liberar al duque Ronwey de su cautiverio en el castillo de Almorica.\nLos bakram lo capturaron durante la invasión de Rhime. Más tarde logró escapar junto a sir Mirdyn y sir Gildas, pero quedó gravemente herido.",
+      "approval_status": "approved"
+    },
+    {
+      "biography_number": 54,
+      "resource": "700/0/3",
+      "xlc_row": 66,
+      "revised_spanish": "Un xenobiano de origen desconocido que antiguamente dirigió el Regimiento de Magos del Reino de Nueva Xenobia. Es más un profeta que un adivino. Al igual que el Caballero Santo Lanselot, fue desterrado de Xenobia por mala conducta. Se unió a la Resistencia walisteriana tras ayudar a {hero} a liberar al duque Ronwey de su cautiverio en el castillo de Almorica.\nLos bakram lo capturaron durante la invasión de Rhime. Más tarde logró escapar junto a sir Mirdyn y sir Gildas, pero quedó gravemente herido.",
+      "approval_status": "approved"
+    },
+    {
+      "biography_number": 55,
+      "resource": "700/0/3",
+      "xlc_row": 67,
+      "revised_spanish": "Un xenobiano de origen desconocido que antiguamente dirigió el Regimiento de Magos del Reino de Nueva Xenobia. Viajó a Valeria por orden del rey Tristán de Xenobia para recuperar la espada Brynhildr.\nLos bakram lo capturaron durante la invasión de Rhime, pero más tarde logró escapar. Actualmente se recupera en Almorica de las graves heridas que sufrió.",
+      "approval_status": "approved"
+    },
+    {
+      "biography_number": 56,
+      "resource": "700/0/3",
+      "xlc_row": 68,
+      "revised_spanish": "Un xenobiano de origen desconocido que antiguamente dirigió el Regimiento de Magos del Reino de Nueva Xenobia. Viajó a Valeria por orden del rey Tristán de Xenobia para recuperar la espada Brynhildr.\n\nAl intentar sellar la Puerta del Caos bajo los Jardines Colgantes, quedó atrapado en su interior. Fue rescatado cuando {hero} abrió la Puerta del Caos en el Palacio de los Muertos.",
+      "approval_status": "approved"
+    },
+    {
+      "biography_number": 57,
+      "resource": "700/0/3",
+      "xlc_row": 69,
+      "revised_spanish": "Un xenobiano de origen desconocido que antiguamente dirigió el Regimiento de Magos del Reino de Nueva Xenobia. Viajó a Valeria por orden del rey Tristán de Xenobia para recuperar la espada Brynhildr.\n\nTras sufrir graves heridas durante la invasión bakram de Rhime, se recuperó en Almorica. Salvó a {hero} cuando la Puerta del Caos se derrumbó durante una batalla decisiva en los Jardines Colgantes, pero él mismo quedó atrapado. Se desconoce si sobrevivió.",
+      "approval_status": "approved"
+    },
+    {
+      "biography_number": 58,
+      "resource": "700/0/3",
+      "xlc_row": 73,
+      "revised_spanish": "Un xenobiano de origen desconocido que antiguamente dirigió el Regimiento de Magos del Reino de Nueva Xenobia. Viajó a Valeria por orden del rey Tristán de Xenobia para recuperar la espada Brynhildr.\n\nAl intentar sellar la Puerta del Caos bajo los Jardines Colgantes, quedó atrapado en su interior. Más tarde fue rescatado cuando {hero} abrió la Puerta del Caos en el Palacio de los Muertos. Aunque se unió temporalmente a la Orden de {order}, {hero} acabó prescindiendo de sus servicios.",
+      "approval_status": "approved"
+    },
+    {
+      "biography_number": 59,
+      "resource": "700/0/3",
+      "xlc_row": 74,
+      "revised_spanish": "Un xenobiano de origen desconocido que antiguamente dirigió el Regimiento de Magos del Reino de Nueva Xenobia. Viajó a Valeria por orden del rey Tristán de Xenobia para recuperar la espada Brynhildr.\n\nAl intentar sellar la Puerta del Caos bajo los Jardines Colgantes, quedó atrapado en su interior. Fue rescatado cuando {hero} abrió la Puerta del Caos en el Palacio de los Muertos. Aunque se unió temporalmente a la Orden de {order}, un desacuerdo con {hero} lo llevó a abandonarla.",
+      "approval_status": "approved"
+    },
+    {
+      "biography_number": 60,
+      "resource": "700/0/3",
+      "xlc_row": 75,
+      "revised_spanish": "Un xenobiano de origen desconocido que antiguamente dirigió el Regimiento de Magos del Reino de Nueva Xenobia. Viajó a Valeria por orden del rey Tristán de Xenobia para recuperar la espada Brynhildr.\n\nAl intentar sellar la Puerta del Caos bajo los Jardines Colgantes, quedó atrapado en su interior. Fue rescatado cuando {hero} abrió la Puerta del Caos en el Palacio de los Muertos. Se unió temporalmente a la Orden de {order}, pero más tarde cayó en combate.",
+      "approval_status": "approved"
+    },
+    {
+      "biography_number": 61,
+      "resource": "700/0/3",
+      "xlc_row": 76,
+      "revised_spanish": "Un xenobiano de la ciudad de Peshaval, en Charlom, que antiguamente fue capitán de la Legión de Bestias del Reino de Nueva Xenobia.\n\nAl igual que el Caballero Santo Lanselot, fue desterrado de Xenobia por mala conducta. Aunque aparenta ser joven, los alados viven el triple que los humanos.",
+      "approval_status": "approved"
+    },
+    {
+      "biography_number": 62,
+      "resource": "700/0/3",
+      "xlc_row": 77,
+      "revised_spanish": "Un xenobiano de la ciudad de Peshaval, en Charlom, que antiguamente fue capitán de la Legión de Bestias del Reino de Nueva Xenobia.\n\nAl igual que el Caballero Santo Lanselot, fue desterrado de Xenobia por mala conducta. Se unió a la Resistencia walisteriana tras ayudar a {hero} a liberar al duque Ronwey de su cautiverio en el castillo de Almorica. Desde entonces, acompaña a {hero}.\n\nAunque aparenta ser joven, los alados viven el triple que los humanos.",
+      "approval_status": "approved"
+    },
+    {
+      "biography_number": 63,
+      "resource": "700/0/3",
+      "xlc_row": 78,
+      "revised_spanish": "Un xenobiano de la ciudad de Peshaval, en Charlom, que antiguamente fue capitán de la Legión de Bestias del Reino de Nueva Xenobia.\n\nViajó a Valeria junto al Caballero Santo Lanselot por orden del rey Tristán de Xenobia para recuperar la espada Brynhildr.\n\nSe unió a la Resistencia walisteriana tras ayudar a {hero} a liberar al duque Ronwey de su cautiverio en el castillo de Almorica. Desde entonces, acompaña a {hero}.\n\nAunque aparenta ser joven, los alados viven el triple que los humanos.",
+      "approval_status": "approved"
+    },
+    {
+      "biography_number": 64,
+      "resource": "700/0/3",
+      "xlc_row": 88,
+      "revised_spanish": "Un xenobiano de la ciudad de Peshaval, en Charlom, que antiguamente fue capitán de la Legión de Bestias del Reino de Nueva Xenobia.\n\nSe unió a la Resistencia walisteriana tras ayudar a {hero} a liberar al duque Ronwey de su cautiverio en el castillo de Almorica. Continuó luchando junto a la Resistencia hasta que {hero} prescindió de sus servicios.",
+      "approval_status": "approved"
+    },
+    {
+      "biography_number": 65,
+      "resource": "700/0/3",
+      "xlc_row": 89,
+      "revised_spanish": "Un xenobiano de la ciudad de Peshaval, en Charlom, que antiguamente fue capitán de la Legión de Bestias del Reino de Nueva Xenobia.\n\nSe unió a la Resistencia walisteriana tras ayudar a {hero} a liberar al duque Ronwey de su cautiverio en el castillo de Almorica. Continuó luchando junto a la Resistencia hasta que una disputa con {hero} lo llevó a abandonar su causa.",
+      "approval_status": "approved"
+    },
+    {
+      "biography_number": 66,
+      "resource": "700/0/3",
+      "xlc_row": 90,
+      "revised_spanish": "Un xenobiano de la ciudad de Peshaval, en Charlom, que antiguamente fue capitán de la Legión de Bestias del Reino de Nueva Xenobia.\n\nSe unió a la Resistencia walisteriana tras ayudar a {hero} a liberar al duque Ronwey de su cautiverio en el castillo de Almorica. Continuó luchando por la Resistencia hasta que cayó en combate.",
+      "approval_status": "approved"
+    },
+    {
+      "biography_number": 67,
+      "resource": "700/0/3",
+      "xlc_row": 91,
+      "revised_spanish": "Un xenobiano nacido en la ciudad de Konsh, en Dalmuhd, que antiguamente formó parte de los Caballeros Santos del Reino de Nueva Xenobia.\n\nAl igual que el Caballero Santo Lanselot, fue desterrado de Xenobia por mala conducta.\n\nEs un hombre de pocas palabras. Las mujeres que esperan ser cortejadas por este apuesto guerrero se llevan una decepción, pues apenas es capaz de ofrecerles una sonrisa. Gildas y Mirdyn son como el día y la noche.",
+      "approval_status": "approved"
+    },
+    {
+      "biography_number": 68,
+      "resource": "700/0/3",
+      "xlc_row": 92,
+      "revised_spanish": "Un xenobiano nacido en la ciudad de Konsh, en Dalmuhd, que antiguamente formó parte de los Caballeros Santos del Reino de Nueva Xenobia.\n\nAl igual que el Caballero Santo Lanselot, fue desterrado de Xenobia por mala conducta. Se unió a la Resistencia walisteriana tras ayudar a {hero} a liberar al duque Ronwey de su cautiverio en el castillo de Almorica.\n\nEstaba destinado en Rhime cuando los bakram invadieron la ciudad. Aunque luchó con valentía, acabó sucumbiendo ante la superioridad numérica del enemigo. Desde entonces, no se ha vuelto a saber nada de él.",
+      "approval_status": "approved"
+    },
+    {
+      "biography_number": 69,
+      "resource": "700/0/3",
+      "xlc_row": 93,
+      "revised_spanish": "Un xenobiano nacido en la ciudad de Konsh, en Dalmuhd, que antiguamente formó parte de los Caballeros Santos del Reino de Nueva Xenobia.\n\nAl igual que el Caballero Santo Lanselot, fue desterrado de Xenobia por mala conducta. Se unió a la Resistencia walisteriana tras ayudar a {hero} a liberar al duque Ronwey de su cautiverio en el castillo de Almorica.\n\nLos bakram lo apresaron durante la invasión de Rhime. Más tarde escapó junto con el Vidente Estelar Warren Omon y volvió a reunirse con {hero}.",
+      "approval_status": "approved"
+    },
+    {
+      "biography_number": 70,
+      "resource": "700/0/3",
+      "xlc_row": 95,
+      "revised_spanish": "Un xenobiano nacido en la ciudad de Konsh, en Dalmuhd, que antiguamente formó parte de los Caballeros Santos del Reino de Nueva Xenobia.\n\nAl igual que el Caballero Santo Lanselot, fue desterrado de Xenobia por mala conducta. Se unió a la Resistencia walisteriana tras ayudar a {hero} a liberar al duque Ronwey de su cautiverio en el castillo de Almorica.\n\nLos bakram lo apresaron durante la invasión de Rhime. Más tarde escapó junto con el Vidente Estelar Warren Omon y sir Gildas, y volvió a reunirse con {hero}.",
+      "approval_status": "approved"
+    },
+    {
+      "biography_number": 71,
+      "resource": "700/0/3",
+      "xlc_row": 96,
+      "revised_spanish": "Un xenobiano nacido en la ciudad de Konsh, en Dalmuhd, que antiguamente formó parte de los Caballeros Santos del Reino de Nueva Xenobia.\n\nAl igual que el Caballero Santo Lanselot, fue desterrado de Xenobia por mala conducta. Se unió a la Resistencia walisteriana tras ayudar a {hero} a liberar al duque Ronwey de su cautiverio en el castillo de Almorica.\n\nLos bakram lo apresaron durante la invasión de Rhime. Más tarde escapó junto con el Vidente Estelar Warren Omon y sir Gildas, y volvió a reunirse con {hero}.",
+      "approval_status": "approved"
+    },
+    {
+      "biography_number": 72,
+      "resource": "700/0/3",
+      "xlc_row": 97,
+      "revised_spanish": "Un xenobiano nacido en la ciudad de Konsh, en Dalmuhd, que antiguamente formó parte de los Caballeros Santos del Reino de Nueva Xenobia.\n\nViajó a Valeria junto al Caballero Santo Lanselot por orden del rey Tristán de Xenobia para recuperar la espada Brynhildr.\n\nSe unió a la Resistencia walisteriana tras ayudar a {hero} a liberar al duque Ronwey de su cautiverio en el castillo de Almorica.\n\nLos bakram lo apresaron durante la invasión de Rhime. Más tarde logró escapar y volvió a reunirse con {hero}.",
+      "approval_status": "approved"
+    },
+    {
+      "biography_number": 73,
+      "resource": "700/0/3",
+      "xlc_row": 103,
+      "revised_spanish": "Un xenobiano nacido en la ciudad de Konsh, en Dalmuhd, que antiguamente formó parte de los Caballeros Santos del Reino de Nueva Xenobia.\n\nLos bakram lo apresaron durante la invasión de Rhime. Tras escapar, continuó luchando por la Resistencia hasta que {hero} prescindió de sus servicios.",
+      "approval_status": "approved"
+    },
+    {
+      "biography_number": 74,
+      "resource": "700/0/3",
+      "xlc_row": 104,
+      "revised_spanish": "Un xenobiano nacido en la ciudad de Konsh, en Dalmuhd, que antiguamente formó parte de los Caballeros Santos del Reino de Nueva Xenobia.\n\nLos bakram lo apresaron durante la invasión de Rhime. Tras escapar, continuó luchando por la Resistencia hasta que una disputa con {hero} lo llevó a abandonarla.",
+      "approval_status": "approved"
+    },
+    {
+      "biography_number": 75,
+      "resource": "700/0/3",
+      "xlc_row": 105,
+      "revised_spanish": "Un xenobiano nacido en la ciudad de Konsh, en Dalmuhd, que antiguamente formó parte de los Caballeros Santos del Reino de Nueva Xenobia.\n\nLos bakram lo apresaron durante la invasión de Rhime. Tras escapar, continuó luchando por la Resistencia, pero más tarde murió en combate.",
+      "approval_status": "approved"
+    }
+  ]
+}
